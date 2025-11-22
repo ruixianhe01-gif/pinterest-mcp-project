@@ -30,4 +30,4 @@ This project ("Pinterest MCP Integration") is a personal, local-use application.
 
 ## Contact
 If you have questions, contact:
-your-email@example.com
+ruixianhe01@gmail.com
